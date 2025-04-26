@@ -15,13 +15,13 @@ You must have the WebP command-line tools installed (which include `cwebp`) :con
 - **macOS** (Homebrew):  
   ```bash
   brew install webp
-  ``` :contentReference[oaicite:4]{index=4}
+  ```
 
 - **Ubuntu / Debian** (APT):  
   ```bash
   sudo apt update
   sudo apt install webp
-  ``` :contentReference[oaicite:5]{index=5}
+  ```
 
 - **Other Linux**: see the [libwebp build instructions]&#8203;:contentReference[oaicite:6]{index=6}.
 
@@ -32,7 +32,7 @@ You must have the WebP command-line tools installed (which include `cwebp`) :con
 3. Make it executable:
    ```bash
    chmod +x convert-to-webp.sh
-   ``` :contentReference[oaicite:7]{index=7}
+   ```
 
 ## Usage
 
