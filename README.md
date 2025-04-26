@@ -23,7 +23,7 @@ You must have the WebP command-line tools installed (which include `cwebp`) :con
   sudo apt install webp
   ```
 
-- **Other Linux**: see the [libwebp build instructions]&#8203;:contentReference[oaicite:6]{index=6}.
+- **Other Linux**:
 
 ## Installation
 
