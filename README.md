@@ -4,13 +4,13 @@ A minimal Bash script to batch-convert `.jpg`, `.jpeg`, and `.png` images in the
 
 ## Features
 
-- Converts all `.jpg`, `.jpeg` and `.png` files in the working directory to `.webp` :contentReference[oaicite:0]{index=0}  
-- Uses a default quality setting of 100 (lossy) for highest fidelity :contentReference[oaicite:1]{index=1}  
-- Outputs `.webp` files alongside the originals without modifying or deleting them :contentReference[oaicite:2]{index=2}  
+- Converts all `.jpg`, `.jpeg` and `.png` files in the working directory to `.webp`
+- Uses a default quality setting of 100 (lossy) for highest fidelity
+- Outputs `.webp` files alongside the originals without modifying or deleting them
 
 ## Prerequisites
 
-You must have the WebP command-line tools installed (which include `cwebp`) :contentReference[oaicite:3]{index=3}:
+You must have the WebP command-line tools installed (which include `cwebp`)
 
 - **macOS** (Homebrew):  
   ```bash
